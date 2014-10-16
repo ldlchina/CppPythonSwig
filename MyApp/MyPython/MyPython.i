@@ -7,5 +7,5 @@
 %feature("director") CMyDll;
 
 %include <windows.i>
-%include <stl.i>
+%include <std_string.i>
 %include "../MyDll/MyDll.h"
